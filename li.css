@@ -2,8 +2,37 @@ body{
   background-color:rgb(207,186,255);
   text-align:center;
 }
+
 h1{
   font-family:"Helvetica", sans-serif;
 }
+
 #nav-table{width:880px; text-align:center;}
+
 #nav-td{width:200px; text-align:center;}
+
+#tanya-pic1{
+  width: 100px;
+  float: left;
+  margin-right: 6px;
+  margin-bottom: 6px; 
+}
+
+#tanya-pic2{
+  width: 100px;
+  float: left;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+#tanya-pic3{
+  float: right;
+  width: 30%;
+  margin-left: 10px;
+}
+
+#tanya-footer{
+  background-color:white;
+  padding: 6px;
+  clear: both;
+}
