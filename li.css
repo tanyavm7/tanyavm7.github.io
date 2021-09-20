@@ -3,8 +3,7 @@ body{
   text-align:center;
 }
 h1{
-  font-family:"italic";
-  font-size:xx-large;
+  font-family:"Helvetica", sans-serif;
 }
 #nav-table{width:880px; text-align:center;}
 #nav-td{width:200px; text-align:center;}
