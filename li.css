@@ -1,3 +1,6 @@
-body{background-color:purple;}
+body{
+  background-color:rgb(207,186,255);
+  text-align:center;
+}
 #nav-table{width:880px;}
 #nav-td{width:200px; text-align:center;}
