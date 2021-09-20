@@ -12,23 +12,16 @@ h1{
 #nav-td{width:200px; text-align:center;}
 
 #tanya-pic1{
-  width: 200px;
-  float: left;
-  margin-right: 6px;
-  margin-bottom: 6px; 
+  width: 250px; 
 }
 
 #tanya-pic2{
-  width: 200px;
-  float: right;
-  margin-left: 6px;
-  margin-bottom: 10px;
+  width: 250px;
 }
 
 #tanya-pic3{
-  float: right;
+  float: left;
   width: 200px;
-  margin-left: 6px;
 }
 
 #tanya-footer{
