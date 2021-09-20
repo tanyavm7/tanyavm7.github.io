@@ -6,5 +6,5 @@ h1{
   font-family:"italic";
   font-size:xx-large;
 }
-#nav-table{width:880px;}
+#nav-table{width:880px; text-align:center;}
 #nav-td{width:200px; text-align:center;}
